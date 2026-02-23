@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309047965543",
+    "project_id": "fir-auth-with-getx-mvc",
+    "storage_bucket": "fir-auth-with-getx-mvc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309047965543:android:3f942249bf63a7ae89e1c2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_getx_mvc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD82D3Dk4IHPtleNgjsuNsoTCHrQ3S6i7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
